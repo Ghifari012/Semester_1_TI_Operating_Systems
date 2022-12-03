@@ -1,2 +1,1 @@
-"# Sistem_Operasi" 
-"# Sistem_Operasi" 
+"Sistem_Operasi" 
